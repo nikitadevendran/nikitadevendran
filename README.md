@@ -1,8 +1,8 @@
 Hello there.I'm Nikita.
 ---
-I'm a resilient individual with an unwavering mindset and commendable communication skills.
+I'm a resilient individual with an unwavering mindset and good communication skills.
 
-My ardent enthusiasm in delving deep into the world of new technologies is perpetual.
+My ardent enthusiasm in delving deeper into the world of new technologies is perpetual.
 
 I'm currently learning JQuery.
 
