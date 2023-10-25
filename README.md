@@ -1,4 +1,4 @@
-Hello there.I'm Nikita.
+Hello there. I'm Nikita :)
 ---
 I'm a resilient individual with an unwavering mindset and good communication skills.
 
